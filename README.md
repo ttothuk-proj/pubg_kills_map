@@ -16,6 +16,13 @@ Using the hypot function - "Given the "legs" of a right triangle, return its hyp
 
 ![](kill_distance.png)
 
+## Datashader
+
+The following maps were created with the help of [this](https://examples.pyviz.org/census/census.html) tutorial.
+The first map represents where are people most likely to die in a given stage of the game. We can brake a round into 3 parts :
+- early-game (before the first circle);
+- mid-game (between the first and fourth circle) and
+- late-game (everything after).
 
 ![](erangel_phase_cat.jpg)
 ![](erangel_fire.png)
