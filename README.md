@@ -23,8 +23,11 @@ The first map represents where are people most likely to die in a given stage of
 - early-game (before the first circle : first 12 minutes) - **green** dots
 - mid-game (between the first and fourth circle : up to 24:40 minutes) - **blue** dots
 - late-game (everything after) - **purple** dots
-
+The raw input has been edited to highlight more of the colours.
 
 ![](erangel_phase_cat.jpg)
+
+Similalry to the previous map, just without the categories. The brigther the spot, the more people are killed there.
+
 ![](erangel_fire.png)
 
